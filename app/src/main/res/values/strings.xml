@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EasyTodoApp</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="todo_title_hint">Enter a title for the todo.</string>
+    <string name="todo_title_label">Title</string>
+    <string name="todo_details_label">Details</string>
+    <string name="todo_solved_label">Solved</string>
+    <string name="date_picker_title">Date of todo:</string>
+    <string name="time_picker_title">Time of todo:</string>
+    <string name="ok">OK</string>
+    <string name="todo_swipe_hint">Swipe to navigate through the Todo Tasks.</string>
+    <string name="new_todo">Well hurry up and add a new Todo task! Organize yourself!</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="subtitle_singular_format">1 Todo</string>
+    <string name="subtitle_plural_format">%1$s Todos</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="delete_todo">Delete todo</string>
+    <string name="no_todos">Welcome! Looks like there are currently no Todos for you.</string>
+    <string name="todo_contact_text">Choose and tag a Contact.</string>
+    <string name="todo_report_text">Send the Todo Report to a Friend.</string>
+    <string name="todo_report">%1$s! The Todo task was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="todo_report_solved">The task is solved</string>
+    <string name="todo_report_unsolved">The case is not solved</string>
+    <string name="todo_report_no_contact">There is are Contacts included.</string>
+    <string name="todo_report_contact">the contact is %s.</string>
+    <string name="todo_report_subject">EasyTodoApp:Todo Report-</string>
+    <string name="send_report">Send todo report via</string>
+
+
+
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$s Todos</item>
+        <item quantity="other">%1$s Todos</item>
+    </plurals>
+</resources>
